@@ -3,6 +3,11 @@
 ## Tags
 Flask, Flask-RESTful, SQLAlchemy, Mysql
 
+## How to start
+1. run `database_setting.py` to create tables
+2. run `sample_data.py` to insert data
+3. run `runner.py` to run the app
+
 ## Introduction
 
 `/restaurants`  *[Get all restaurants, Create new restaurant]*
